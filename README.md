@@ -16,7 +16,7 @@ Building scalable systems with clarity, precision, and a touch of simplicity.
 I’m a **Backend Engineer** with **3+ years of experience** working across **Go**, **Laravel**, **Node.js**, and **Python**.  
 I love designing reliable backend architectures, automating workflows, and creating developer tools that make everyday engineering smoother.  
 
-I believe great software is not just about performance — it’s about **clarity**, **consistency**, and **maintainability**.
+I believe great software is not just about performance, it’s about **clarity**, **consistency**, and **maintainability**.
 
 ---
 
